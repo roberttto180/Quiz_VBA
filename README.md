@@ -1,6 +1,6 @@
 ![fotoExcelVBA](fotoExcelVBA.png)
 
-# Quiz_VBA
+# Quiz VBA
 Prosty Quiz stworzony za pomocą programu Excel przy użyciu VBA. Po otwarciu pliku należy wlączyć możliwość obsługi makr przez Excela(żółty pasek).
 Po otwarciu pliku pojawia się sam formularz UserForm(aplikacja Excela jest ukrywana).
 Jeśli wybierzemy opcję uczeń, to po podaniu imienia i nazwiska dla ucznia pojawia się 10 pytań zamkniętych.
