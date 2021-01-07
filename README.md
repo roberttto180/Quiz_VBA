@@ -1,4 +1,4 @@
-![Excel_VBA_foto3](Excel_VBA_foto3.png)
+![Excel_VBA_foto2](Excel_VBA_foto2.png)
 
 # Quiz_VBA
 Prosty Quiz stworzony za pomocą programu Excel przy użyciu VBA. Po otwarciu pliku należy wlączyć możliwość obsługi makr przez Excela(zółty pasek)
