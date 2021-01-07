@@ -6,4 +6,4 @@ Na końcu pojawia się informacja: z uzyskanym wynikiem i ile czasu zajęło ucz
 Jeśli wybierzemy opcję nauczyciel, to należy wpisać hasło: "całki180". Po poprawnym wpisaniu hasła,
 mamy wgląd do arkusza Excela, w którym są zapisane uzyskane wcześniej wyniki przez uczniów.
 
-
+![Excel_VBA_foto](Excel_VBA.png)
